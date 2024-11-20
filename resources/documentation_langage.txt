@@ -1,0 +1,8 @@
+définition d'une fonction -> "kandef"
+Fin de ligne -> "_"
+if -> "kanasi"
+else -> "kanasinon"
+while -> "kanawhile"
+for -> "kanafor"
+return -> "kanareturn"
+
